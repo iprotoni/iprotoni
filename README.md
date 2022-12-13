@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on javascript/typescript based SPA frameworks including React.js, Angular, Vue for frontend as well as Node.js, Express.js and etc.
+- 👯 I’m looking to collaborate on team gusy with agile development way.
+- 😄 Pronouns: He/Him
+
 <!--
 **iprotoni/iprotoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
